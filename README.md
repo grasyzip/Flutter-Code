@@ -11,7 +11,7 @@ Usando Flutter com a linguagem Dart/Java, criando um aplicativo que calcula a á
 - Hot-Reload cria facilidade em "arrumar" o codigo em tempo real;
 - VS Code extensão para melhor uso do Dart e Flutter.
 
-###Como abrir o aplicativo?
+##Como abrir o aplicativo?
 
 1. Importe o main.dart no seu IDE;
 2. De "flutter run" para emular o flutter;
