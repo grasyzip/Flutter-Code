@@ -1,4 +1,4 @@
-# Projeto calcula
+# Projeto Calculadora Triângulo
 
 Projeto simples para Trabalho de Conclusão de Curso.
 Consiste em pesquisar frameworks para facilitar o desenvolvimento de um aplicativo.
@@ -16,3 +16,5 @@ Usando Flutter com a linguagem Dart/Java, criando um aplicativo que calcula a á
 1. Importe o main.dart no seu IDE;
 2. De "flutter run" para emular o flutter;
 3. Aperte em "Start and Debugging" para rodar o codigo, assim escolhendo um emulador de IOs, Android, etc.
+
+*Projeto criado para futuros trabalhos de TCC no curso de Informática - IFSP CBT*
